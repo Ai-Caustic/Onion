@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DomainLayer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

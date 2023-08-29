@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onion", "Onion\Onion.csproj", "{073ABB1E-6C7B-47FE-9FCC-0A61F0A3239D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainLayer", "DomainLayer\DomainLayer.csproj", "{454433D4-D0FF-4523-A50F-AA437995AF67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073ABB1E-6C7B-47FE-9FCC-0A61F0A3239D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073ABB1E-6C7B-47FE-9FCC-0A61F0A3239D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073ABB1E-6C7B-47FE-9FCC-0A61F0A3239D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073ABB1E-6C7B-47FE-9FCC-0A61F0A3239D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454433D4-D0FF-4523-A50F-AA437995AF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454433D4-D0FF-4523-A50F-AA437995AF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454433D4-D0FF-4523-A50F-AA437995AF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454433D4-D0FF-4523-A50F-AA437995AF67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A20686C-34FF-48D8-9495-A2275C2F1AD5}
+	EndGlobalSection
+EndGlobal
