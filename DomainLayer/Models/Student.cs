@@ -18,7 +18,7 @@ namespace DomainLayer.Models
 
         public string ? Email { get; set; }
 
-        public string ? CIty { get; set; }
+        public string ? City { get; set; }
 
         public string State { get; set; }
 
