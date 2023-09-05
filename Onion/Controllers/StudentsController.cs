@@ -58,7 +58,7 @@ namespace Onion.Controllers
             if (student != null)
             {
                 _customService.Insert(student);
-                return Ok("Created Successfully");
+                return Ok("Created student Successfully");
             }
             else
             {
